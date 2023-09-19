@@ -1,11 +1,11 @@
-/*******************************************************
-Course: DGL 204 - Programming for mobile app development
-Semester: Fall 2023
-Author: Ashley Blacquiere
+/**
+ * Course: DGL 204 - Programming for mobile app development
+ * Semester: Fall 2023
+ * Author: Ashley Blacquiere
 
-Week 03 lecture code
-Reference: https://kotlinlang.org/docs/destructuring-declarations.html
- *******************************************************/
+ * Week 03 lecture code
+ * Reference: https://kotlinlang.org/docs/destructuring-declarations.html
+ */
 
 fun main() {
     // Destructing declarations allow you to initialize multiple varables at one time, destructured from a data structure like an array

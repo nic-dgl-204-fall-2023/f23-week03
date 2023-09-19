@@ -1,11 +1,11 @@
-/*******************************************************
-Course: DGL 204 - Programming for mobile app development
-Semester: Fall 2023
-Author: Ashley Blacquiere
+/**
+ * Course: DGL 204 - Programming for mobile app development
+ * Semester: Fall 2023
+ * Author: Ashley Blacquiere
 
-Week 03 lecture code
-Reference: https://kotlinlang.org/docs/classes.html
- *******************************************************/
+ * Week 03 lecture code
+ * Reference: https://kotlinlang.org/docs/classes.html
+ */
 
 // **Kotlin Classes**
 
